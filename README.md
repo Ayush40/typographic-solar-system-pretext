@@ -10,10 +10,6 @@ If this project helped or inspired you:
 - Star this repository
 - Fork this repository and build your own version
 
-Suggested repo links (replace with your actual GitHub URL):
-- Star: https://github.com/USERNAME/REPO
-- Fork: https://github.com/USERNAME/REPO/fork
-
 The project combines:
 - Real-time planet orbit rendering
 - Larger stylized planets with lighting and rings
